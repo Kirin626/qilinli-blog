@@ -13,6 +13,6 @@ subtitle: 'Life is a matter of attitude.'
 
 design:
   background:
-    color: '#FFFFFF'
-    text_color_light: false
+    color: '#000000'
+    text_color_light: true
 ---
