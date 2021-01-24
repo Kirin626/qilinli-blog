@@ -54,4 +54,4 @@ bio: My research interests include social network analysis and statistical machi
 highlight_name: true
 ---
 
-My name is Qilin Li. Now I am a senior student of statistics at the University of Science and Technology of China (USTC). My interests include social network ananlysis and statistical machine learning. 
+My name is Qilin Li. Now I am a senior student of statistics at the University of Science and Technology of China (USTC). My interests include social network ananlysis and statistical machine learning. This is my [homepage](https://qilinli.netlify.app/). 
